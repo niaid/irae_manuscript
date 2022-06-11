@@ -13,8 +13,12 @@ knitr::opts_chunk$set(
 )
 ```
 
-### Code to reproduce all manuscript results and figures  
-#### Matt Mulè  
+### Code to reproduce all manuscript results and figures
+
+#### Matt Mulè
+
+biorxiv preprint: 
+https://www.biorxiv.org/content/10.1101/2022.06.05.494592v1
 
 ## Table of Contents
 1. [**Instructions for analysis workflow**](#instructions) 
